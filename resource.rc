@@ -1,0 +1,16 @@
+#include "resource.h"
+
+IDR_WAV1             WAVE   resources\AssHoles.wav
+IDR_WAV2             WAVE   resources\Babbline.wav
+IDR_WAV3             WAVE   resources\Bastard.wav
+IDR_WAV4             WAVE   resources\Bastard2.wav
+IDR_WAV5             WAVE   resources\Bastard3.wav
+IDR_WAV6             WAVE   resources\CluTrain.wav
+IDR_WAV7             WAVE   resources\DuhMean.wav
+IDR_WAV8             WAVE   resources\Gonads.wav
+IDR_WAV9             WAVE   resources\IllExpl.wav
+IDR_WAV10            WAVE   resources\InNoMood.wav
+IDR_WAV11            WAVE   resources\Opposite.wav
+IDR_WAV12            WAVE   resources\USuck.wav
+IDR_WAV13            WAVE   resources\URIdiot.wav
+

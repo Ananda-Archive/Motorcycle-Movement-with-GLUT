@@ -1,0 +1,13 @@
+#define IDR_WAV1    101
+#define IDR_WAV2    102
+#define IDR_WAV3    103
+#define IDR_WAV4    104
+#define IDR_WAV5    105
+#define IDR_WAV6    106
+#define IDR_WAV7    107
+#define IDR_WAV8    108
+#define IDR_WAV9    109
+#define IDR_WAV10   110
+#define IDR_WAV11   111
+#define IDR_WAV12   112
+#define IDR_WAV13   113   
